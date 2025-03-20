@@ -26,8 +26,10 @@ Reviews & Ratings – Rate technicians after service completion.
 
 📱 Screenshots
 
-
 ![WhatsApp Image 2025-03-20 at 8 37 04 PM](https://github.com/user-attachments/assets/3fd6a46b-5f35-4cb1-826d-77b6eab537ad)
+![WhatsApp Image 2025-03-20 at 8 40 25 PM](https://github.com/user-attachments/assets/f48be8f2-713a-4506-a2b0-58770c5d407f)
+![WhatsApp Image 2025-03-20 at 8 40 29 PM](https://github.com/user-attachments/assets/a7c04bff-76fd-4e63-af55-1357e76acc88)
+
 
 
 
